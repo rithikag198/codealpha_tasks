@@ -1,0 +1,35 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.favourit-place-bg-container {
+    background-image: url("https://static.independent.co.uk/s3fs-public/thumbnails/image/2014/03/25/12/eiffel.jpg?quality=75&width=1250&crop=3%3A2%2Csmart&auto=webp");
+    height: 100vh;
+    background-size: cover;
+    border-radius: 15px;
+}
+
+.favourit-place-heading {
+    color: white;
+    text-align: center;
+    padding: 15px;
+}
+
+.favourit-place-card-container {
+    background-color: white;
+    padding: 15px;
+    margin: 15px;
+    border-radius: 10px;
+}
+
+.favourit-place-card-heading {
+    font-size: 25px;
+    font-weight: bold;
+}
+
+.favourit-place-card-paragraph {
+    width: 300px;
+}
+
+.image {
+    height: 100px;
+    margin: 5px;
+}
